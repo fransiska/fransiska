@@ -3,4 +3,8 @@
 - :octocat: [My blog](https://fransiska.github.io/)
 - 😼 [Gitlab](https://gitlab.com/fransiska)
 - ✏️ [Codepen](https://codepen.io/fransiska/)
-- 🌱 I’m currently learning about Software Architecture
+- 🗣️ python, cpp, html, css, javascript, php, bash
+- ☁️ Firebase, AWS IoT Core, Dialogflow
+- 🖌️ Vue.js, React
+- 🧰 Emacs, ROS, Android, Laravel
+- 🌱 Learning about Software Architecture
