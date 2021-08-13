@@ -4,7 +4,7 @@
 - 😼 [Gitlab](https://gitlab.com/fransiska)
 - ✏️ [Codepen](https://codepen.io/fransiska/)
 
-##### Developed with
+#### Experiences
 - 🗣️ python, cpp, html, css, javascript, php, bash, latex
 - ☁️ Firebase, AWS IoT Core, Dialogflow
 - 🖌️ Vue.js, React, GTK
