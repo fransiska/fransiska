@@ -5,9 +5,9 @@
 - ✏️ [Codepen](https://codepen.io/fransiska/)
 
 #### Experiences
-- 🗣️ python, cpp, html, css, javascript, php, bash, latex
+- 🗣️ python, cpp, javascript, php, bash, latex
 - ☁️ Firebase, AWS, Dialogflow
 - 🖌️ Vue.js, React, GTK
-- 🧰 ROS, Android, Laravel, Hugo
+- 🧰 ROS, Laravel, Hugo, Ubuntu/Debian, Android
 - 🔨 Emacs, ffmpeg, imagemagick, ledger, gstreamer
 - 🌱 Learning about Software Architecture
