@@ -6,8 +6,8 @@
 
 #### Experiences
 - 🗣️ python, cpp, html, css, javascript, php, bash, latex
-- ☁️ Firebase, AWS IoT Core, Dialogflow
+- ☁️ Firebase, AWS, Dialogflow
 - 🖌️ Vue.js, React, GTK
-- 🧰 Emacs, ROS, Android, Laravel, Hugo
-- 🔨ffmpeg, imagemagick, ledger, gstreamer
+- 🧰 ROS, Android, Laravel, Hugo
+- 🔨 Emacs, ffmpeg, imagemagick, ledger, gstreamer
 - 🌱 Learning about Software Architecture
